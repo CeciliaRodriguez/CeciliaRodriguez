@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Cecilia 👋
 
-<!--
-**CeciliaRodriguez/CeciliaRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Analytics Engineer with 9+ years of experience building reliable data systems, optimizing performance, and translating complex data into business impact.
 
-Here are some ideas to get you started:
+Currently living between data & mountains ⛷️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I do
+
+- Design and optimize data pipelines
+- Build analytics solutions
+- Work closely with stakeholders to define meaningful KPIs
+- Turn messy data into clear insights
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** SQL, Python, JavaScript, Bash  
+**Data:** Redshift, PostgreSQL, MySQL  
+**Cloud:** AWS (S3, EC2, Lambda, DMS)  
+**Tools:** Airflow, Looker, QuickSight  
+
+---
+
+## 🌍 About me
+
+I enjoy building systems that sit between raw data and real decisions — and outside of work, you'll probably find me skiing or teaching on the mountain.
+
+---
+
+## 📫 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/rodriguez-cecilia/)
+- [Portfolio](https://ceciliarodriguez.dev/)
