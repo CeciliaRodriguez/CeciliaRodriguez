@@ -18,9 +18,9 @@ Currently living between data & mountains ⛷️
 ## 🛠️ Tech Stack
 
 **Languages:** SQL, Python, JavaScript, Bash  
-**Data:** Redshift, PostgreSQL, MySQL  
-**Cloud:** AWS (S3, EC2, Lambda, DMS)  
-**Tools:** Airflow, Looker, QuickSight  
+**Data:** Redshift, PostgreSQL, MySQL, Hana  
+**Cloud:** AWS
+**Tools:** Airflow, Looker, QuickSight, SAP BO  
 
 ---
 
